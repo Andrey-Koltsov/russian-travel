@@ -4,3 +4,15 @@
     font-weight: 400;
     line-height: 1.6;
 }
+
+@media screen and (max-width: 768px) {
+    .places__text {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .places__text {
+        padding: 0 16px;
+    }
+}

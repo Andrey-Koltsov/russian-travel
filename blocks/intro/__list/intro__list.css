@@ -6,3 +6,9 @@
     line-height: 1.5;
     font-weight: bold;
 }
+
+@media screen and (max-width: 320px) {
+    .intro__list {
+        margin: 0 0 64px;
+    }
+}

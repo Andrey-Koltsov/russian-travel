@@ -6,3 +6,9 @@
     gap: 13px 16px;
     list-style: none;
 }
+
+@media screen and (max-width: 320px) {
+    .photo-grid__list {
+        margin: 0 0 64px;
+    }
+}
