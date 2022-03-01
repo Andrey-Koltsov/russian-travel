@@ -1,0 +1,13 @@
+.footer__menu-link {
+    color: #fff;
+    text-decoration: none;
+    transition: .1s opacity linear;
+}
+
+.footer__menu-link:last-child {
+    margin-right: 0;
+}
+
+.footer__menu-link:hover {
+    opacity: .6;
+}
